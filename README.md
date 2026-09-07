@@ -10,7 +10,7 @@ I also built and hosted a **Streamlit web application** where users can enter pa
 
 The project is hosted using Streamlit:
 
-[Open the Streamlit App]((https://heart-disease-prediction-model-7703.streamlit.app/))
+[Open the Streamlit App](https://heart-disease-prediction-model-7703.streamlit.app/)
 
 ## Dataset
 
