@@ -10,7 +10,7 @@ I also built and hosted a **Streamlit web application** where users can enter pa
 
 The project is hosted using Streamlit:
 
-[Open the Streamlit App](YOUR_STREAMLIT_APP_LINK_HERE)
+[Open the Streamlit App]((https://heart-disease-prediction-model-7703.streamlit.app/))
 
 ## Dataset
 
@@ -96,15 +96,6 @@ The project follows these steps:
 - `columns.pkl` - Saved column information
 - `requirements.txt` - Required Python libraries
 
-## How to Run
-
-First, clone the repository:
-
-```bash
-git clone https://github.com/ankan7703/Heart-Disease-Prediction-Model.git
-cd Heart-Disease-Prediction-Model
-pip install -r requirements.txt
-streamlit run app.py
 ## Result
 
 Among all the tested models, **KNN performed the best with an accuracy of 88.59%**. Therefore, KNN was selected as the final model for the heart disease prediction application.
